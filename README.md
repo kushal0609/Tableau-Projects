@@ -36,12 +36,12 @@ Explore the Tableau Projects Repository! Within, discover a compilation of proje
   
 5. **Weekly Sales Report:**
    
-    * This proje
+    * This project
     * Folder name: Sales Report-Viz-Week5
   
 6. **HR Attrition Analysis:**
 
-  * This proje
+  * This project
   * Folder name: HR Attrition
 
 ***
