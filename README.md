@@ -27,19 +27,13 @@ Explore the Tableau Projects Repository! Within, discover a compilation of proje
     * Offering valuable information to cricket enthusiasts, analysts, and fans.
     * Folder name: Asia Cup
 
-4. **Visualization-Exam 1:**
 
-    * This project contains the startup dataset for in-depth analysis using Tableau.
-    * Data explores various startups from different countries and investment made.
-    * Gaining insights into the dynamics of the various startups through interactive charts and graphs.
-    * Folder name: Viz-Exam-1
-  
-5. **Weekly Sales Report:**
+  4. **Weekly Sales Report:**
    
     * This project
     * Folder name: Sales Report-Viz-Week5
   
-6. **HR Attrition Analysis:**
+5. **HR Attrition Analysis:**
 
   * This project
   * Folder name: HR Attrition
